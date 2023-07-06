@@ -1,6 +1,9 @@
 # Welcome to MkDocs
+Day one, 7-6-2023
 
-This is a test site hosted on [GitLab Pages](https://pages.gitlab.io). You can
+Project Management
+
+Scheherazade Aldjah [GitLab Pages](https://pages.gitlab.io). You can
 [browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
 using it on your projects.
 
