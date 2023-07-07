@@ -3,7 +3,7 @@ Day one, 7-6-2023
 
 Project Management
 
-Scheherazade Aldjah(edited onine) [GitLab Pages](https://pages.gitlab.io). You can
+Scheherazade Aldjah(edited onine) hehee [GitLab Pages](https://pages.gitlab.io). You can
 [browse its source code](https://gitlab.com/pages/mkdocs), fork it and start
 using it on your projects.
 
