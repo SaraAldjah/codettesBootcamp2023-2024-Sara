@@ -2331,8 +2331,6 @@ Day twenty-nine
 
 Hands-on:
 
-![](https://lh7-us.googleusercontent.com/bmTBMoYIsl_NYtBX66GT3fJMm0C7hYgFnPZqXOII17GaBA9eafhpG6004PtcCipy5g6978RgPC2_TqywZkmvKRCZLs6KwZZlPhIUSirRu4iY1z637OJ_VZLyLNSobtF3vfuC0dSlIYI4GS9WCRFYQO4)
-
 code:
 
 |
